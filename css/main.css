@@ -78,7 +78,7 @@ a {
 
 #logo h1 a {
     color: #1F1F1F;
-    text-shadow: 1px 1px 0px rgba(0,0,0,.2);
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2);
 }
 
 #logo p {
@@ -130,7 +130,7 @@ a {
     padding: 0px 20px 0px 20px;
     text-decoration: none;
     text-align: center;
-    text-shadow: 1px 1px 0px rgba(0,0,0,.2);
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2);
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
     font-size: 16px;
@@ -276,7 +276,7 @@ a {
 #sidebar h2 {
     height: 38px;
     padding: 0px 0px 30px 0px;
-    letter-spacing: -.5px;
+    letter-spacing: -0.5px;
     font-size: 1.8em;
     color: #222222;
 }
