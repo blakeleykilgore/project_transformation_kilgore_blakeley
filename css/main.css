@@ -162,6 +162,7 @@ a {
 
 .posted {
     padding-left: 30px;
+    display: block;
 }
 
 .post .entry p {
