@@ -142,6 +142,7 @@ a {
 .post .title {
     padding: 7px 0px 0px 0px;
     letter-spacing: -1px;
+    font-size: 2em;
 }
 
 .post .title a {
