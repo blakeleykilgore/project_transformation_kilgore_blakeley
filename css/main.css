@@ -164,9 +164,8 @@ a {
     padding-left: 30px;
 }
 
-.post .entry {
-    padding: 0px 0px 40px 0px;
-    text-align: justify;
+.post .entry p {
+    padding: 0px 10px 10px 10px;
 }
 
 .links {
