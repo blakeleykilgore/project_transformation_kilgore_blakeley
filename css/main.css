@@ -153,7 +153,7 @@ a {
 
 .post .meta {
     margin-bottom: 30px;
-    padding: 10px 0px 0px 5px;
+    padding: 0px 0px 0px 5px;
     text-align: left;
     font-family: 'Abel', sans-serif;
     font-size: 16px;
@@ -161,7 +161,6 @@ a {
 }
 
 .posted {
-    padding-left: 30px;
     display: block;
 }
 
