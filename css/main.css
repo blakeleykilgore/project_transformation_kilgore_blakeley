@@ -314,6 +314,9 @@ a {
         text-align: justify;
         padding: 0px;
     }
+    .meta {
+        margin: 15px 0px 30px 0px;
+    }
     time {
         display: block;
         float: left;
@@ -321,6 +324,10 @@ a {
     .posted {
         display: block;
         float: right;
+    }
+    .more, .comments {
+        padding: 5px 5px;
+        margin-top: 15px;
     }
     #sidebar {
         float: left;
