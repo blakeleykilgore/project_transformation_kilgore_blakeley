@@ -310,6 +310,10 @@ a {
         float: right;
         width: calc(100% / 3 * 2);
     }
+    .post .entry p {
+        text-align: justify;
+        padding: 0px;
+    }
     time {
         display: block;
         float: left;
