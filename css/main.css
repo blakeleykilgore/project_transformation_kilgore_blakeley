@@ -310,6 +310,14 @@ a {
         float: right;
         width: calc(100% / 3 * 2);
     }
+    time {
+        display: block;
+        float: left;
+    }
+    .posted {
+        display: block;
+        float: right;
+    }
     #sidebar {
         float: left;
         width: calc(100% / 3);
