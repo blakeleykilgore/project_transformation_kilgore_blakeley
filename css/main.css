@@ -127,6 +127,17 @@ a {
     color: #FFFFFF;
 }
 
+#banner {
+    margin: 0px auto;
+    width: 100%;
+    height: auto;
+    background: url(../img/img03.png) no-repeat left bottom;
+}
+
+#banner img {
+    width: 100%;
+    height: auto;
+}
 
 /* Page */
 #page {
@@ -264,26 +275,4 @@ a {
 
 #footer a {
     color: #5E5E5E;
-}
-
-#banner {
-    margin: 0px auto;
-    width: 100%;
-    height: auto;
-    background: url(../img/img03.png) no-repeat left bottom;
-}
-
-#banner img {
-    width: 100%;
-    height: auto;
-}
-
-.list-style1 {
-    margin: 0px;
-    padding: 0px;
-    list-style: none;
-}
-
-.list-style1 a {
-    color: #7F7F7F;
 }
