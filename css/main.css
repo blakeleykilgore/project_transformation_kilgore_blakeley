@@ -144,6 +144,9 @@ a {
         width: 50%;
         float: left;
     }
+    #header {
+        padding: 0px 0px 40px 0px;
+    }
 }
 
 #menu a:hover, #menu .current_page_item a {
