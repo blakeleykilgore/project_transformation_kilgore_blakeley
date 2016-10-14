@@ -124,6 +124,13 @@ a {
     border: none;
 }
 
+@media all and (min-width: 600px) {
+    nav li {
+        display: inline-block;
+        width: calc(100% / 3);
+    }
+}
+
 #menu a:hover, #menu .current_page_item a {
     background: url(../img/img01.jpg) repeat;
     text-decoration: none;
