@@ -131,6 +131,21 @@ a {
     }
 }
 
+@media all and (min-width: 850px) {
+    nav li {
+        display: inline-block;
+        width: calc(50% / 5);
+    }
+    #menu a {
+        padding: 30px 20px 30px 20px;
+        font-size: 1em;
+    }
+    #logo {
+        width: 50%;
+        float: left;
+    }
+}
+
 #menu a:hover, #menu .current_page_item a {
     background: url(../img/img01.jpg) repeat;
     text-decoration: none;
