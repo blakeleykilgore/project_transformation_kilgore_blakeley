@@ -291,6 +291,12 @@ a {
     #footer {
         padding: 50px 0px 60px 0px;
     }
+    #header {
+        padding: 1.2em;
+    }
+    #page {
+        padding: 1.2em;
+    }
 }
 
 @media all and (min-width: 850px) {
