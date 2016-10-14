@@ -222,13 +222,13 @@ a {
 }
 
 #sidebar li li {
-    line-height: 40px;
     border-bottom: 1px solid #E7EBED;
     border-left: none;
 }
 
 #sidebar li li a {
-    padding: 0px 0px 0px 20px;
+    line-height: 50px;
+    padding: 25px 0px 25px 20px;
     background: url(../img/img04.jpg) no-repeat left 50%;
 }
 
